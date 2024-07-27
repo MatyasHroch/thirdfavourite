@@ -11,5 +11,16 @@ body {
 }
 
 main {
-    padding: 0 4em;
+    padding: 0 2em;
+}
+
+article {
+    margin: 1em 0;
+}
+
+section,
+article {
+    padding: 1em;
+    border: 1px solid white;
+    border-radius: 1em;
 }
